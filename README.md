@@ -1,0 +1,2 @@
+# SingletonTasarimDeseni
+Singleton Tasarım Deseni
